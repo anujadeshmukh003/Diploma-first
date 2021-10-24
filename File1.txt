@@ -1,0 +1,3 @@
+Hey...!
+(Dell--Diploma-first)
+This is my first text file created in c drive's respository folder.
